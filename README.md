@@ -1,4 +1,4 @@
-### Greetings and Salutations! 👋 
+### Greetings and Salutations! I'm Ryan...welcome to my Github! 👋 
 
 - 🔭 I’m currently working on ... finding the right fit for me professionally and building out a personal project or two
 - 🌱 I’m currently learning ... MaterialUI

@@ -1,7 +1,7 @@
 ## Greetings and Salutations! I'm Ryan...welcome to my Github! 👋 
 
 ### About Me...
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - 🔭 I’m currently working on ... finding the right fit for me professionally and building out a personal project or two
 - 🌱 I’m currently learning ... MaterialUI
 - 👯 I’m looking to collaborate on ... really anything that grabs my interest; I have a grab bag of hobbies from music to gaming (generally console but I'm trying to expand my horizons) to NBA basketball to self teaching a little data science

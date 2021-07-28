@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ... not exactly a single fact, but here is something I like thinking about: [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html)
 
 ## Get In Touch With Me
-[<img align="left" alt="ryanhammer.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ryanhammer.io" width="22px" src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png" />][website]
 [<img align="left" alt="ryanhammer | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt="ryanhammer | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />][linkedin]
 

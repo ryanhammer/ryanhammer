@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ... finding the right fit for me professionally and building out a personal project or two
 - 🌱 I’m currently learning ... MaterialUI
-- 👯 I’m looking to collaborate on ... really anything that grabs my interest; I have a grab bag of hobbies from music to gaming (generally console but I'm trying to expand my horizons) to NBA basketball to self teaching a little data science
+- 👯 I’m looking to collaborate on ... really anything that grabs my interest; I have a grab bag of hobbies from music to gaming (generally console but I'm trying to expand my horizons) to NBA basketball to self teaching a little data science, any of which I'd love to explore as part of a project
 - 🤔 I’m looking for help with ... networking and finding problems that I'll enjoy trying to solve
 - 💬 Ask me about ... thinking and learning (former teacher), any of the hobbies above, what it's like living in Delaware
 - 😄 Pronouns: ... he/him
@@ -14,7 +14,7 @@
 [<img align="left" alt="ryanhammer.io" width="22px" src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png" />][website]
 [<img align="left" alt="ryanhammer | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt="ryanhammer | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />][linkedin]
-[<img align="left" alt="ryanhammer | Send Email" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvpn-services.bestreviews.net%2Ffiles%2Fprotonmail-logo.png&f=1&nofb=1" />][protonmail]
+[<img align="left" alt="ryanhammer | Send Email" width="22px" src="https://cdn1.iconfinder.com/data/icons/aami-web-internet/64/aami3-21-512.png" />][protonmail]
 
 
 <br />

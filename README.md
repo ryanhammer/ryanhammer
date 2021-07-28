@@ -12,4 +12,4 @@
 
 ## Get In Touch With Me Here
 
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[twitter].svg

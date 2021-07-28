@@ -10,10 +10,6 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... not exactly a single fact, but here is something I like thinking about: [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html)
 
-<!--
-**ryanhammer/ryanhammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get In Touch With Me Here
 
-Here are some ideas to get you started:
-
-
--->
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg

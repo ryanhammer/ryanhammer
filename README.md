@@ -14,6 +14,7 @@
 [<img align="left" alt="ryanhammer.io" width="22px" src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png" />][website]
 [<img align="left" alt="ryanhammer | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt="ryanhammer | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />][linkedin]
+[<img align="left" alt="ryanhammer | Send Email" width="22px" src="https://protonmail.com/images/pm-logo-white.svg" />][protonmail]
 
 
 <br />
@@ -41,3 +42,4 @@
 [website]: https://ryanhammer.github.io/
 [twitter]: https://twitter.com/ryanhammerscode
 [linkedin]: https://www.linkedin.com/in/ryanhammerscode/
+[protonmail]: mailto:ryanhammer1@protonmail.com

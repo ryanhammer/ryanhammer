@@ -11,8 +11,7 @@
 - ⚡ Fun fact: ... not exactly a single fact, but here is something I like thinking about: [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html)
 
 ## Get In Touch With Me
-[<img align="left" alt="ryanhammer.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ryanhammer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ryanhammer.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ryanhammer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 ### Languages and Tools:
@@ -35,6 +34,6 @@
 
 <img align="left" alt="ryanhammer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ryanhammer&show_icons=true&hide_border=true" />
 
-[website]: http://ryanhammer.github.io/
+[website]: https://ryanhammer.github.io/
 [twitter]: https://twitter.com/ryanhammerscode
 [linkedin]: https://www.linkedin.com/in/ryanhammerscode/

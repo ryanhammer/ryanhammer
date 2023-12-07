@@ -3,7 +3,7 @@
 ## About Me
 
 - 🔭 I’m currently working on ... finding the right fit for me professionally and building out a personal project or two
-- 🌱 I’m currently learning ... MaterialUI
+- 🌱 I’m currently learning ... how to incorporate testing with Cypress into a project
 - 👯 I’m looking to collaborate on ... really anything that grabs my interest; I have a grab bag of hobbies from music to gaming (generally console but I'm trying to expand my horizons) to NBA basketball to self teaching a little data science, any of which I'd love to explore as part of a project
 - 🤔 I’m looking for help with ... networking and finding problems that I'll enjoy trying to solve
 - 💬 Ask me about ... thinking and learning (former teacher), any of the hobbies above, what it's like living in Delaware
